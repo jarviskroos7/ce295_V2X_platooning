@@ -1,0 +1,11 @@
+id,description
+1,Self
+2,Spouse/Partner
+3,Child/Daughter/Son/Adopted child/Stepchild/Son-in-law/Daughter-in-law
+4,Parent/Parent in-law/Step-Parent
+5,Brother or sister (stepbrother/stepsister)
+6,Grandparent
+7,Grandchild
+8,Other Relative
+9,No Realtion (Roommate/Housemate)
+99,Unknown

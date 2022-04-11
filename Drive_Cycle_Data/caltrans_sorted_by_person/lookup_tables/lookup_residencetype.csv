@@ -1,0 +1,11 @@
+id,description
+1,Single family house not attached to any other house
+2,"Single family house attached to one or more houses (townhouse, duplex, triplex) each with separate entry"
+3,A mobile home
+4,Building with 2-4 apartments/ condos / studios /rooms
+5,Building with 5-19 apartments/ condos / studios / rooms 
+6,"Building with 2 or more apartments/ condos / studios / rooms[NOTE TO INTERVIEWERS: includes dorms, etc.]"
+7,"Boat, RV, Van, etc."
+97,Other specify 
+98,"DK, "
+99,RF

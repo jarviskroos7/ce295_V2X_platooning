@@ -1,0 +1,32 @@
+id,description
+1,Walk
+2,Bike
+3,Wheelchair / Mobility Scooter
+4,Other Non Motorized
+5,Auto / Van / Truck Driver
+6,Auto / Van / Truck Passenger
+7,Carpool / Vanpool
+8,Motorcycle / Scooter / Moped
+9,Taxi / Hired Car / Limo
+10,Rental Car/Vehicle
+11,"Private Shuttle (Supershuttle, Employer, Hotel)"
+12,Greyhound Bus
+13,Plane
+14,Other Private Transit
+15,"Local Bus, Rapid Bus"
+16,"Express Bus / Commuter Bus (Golden Gate, AC Trans)"
+17,Metro Orange / Silver Line
+18,School Bus
+19,Public Transit Shuttle
+20,AirBART/LAX Flyaway
+21,Dial-a-Ride / Paratransit (Access Services)
+22,Amtrak Bus
+23,Other Bus
+24,"Bart, Metro Red / Purple Line"
+25,"Ace, Amtrak, Caltrain, Metrolink, Coaster/Sprinter"
+26,"VTA,Muni Metro,Blue/Green/Gold Line,Sacrmnto. SRT"
+27,Street Car / Cable Car / Trolley
+28,Other Rail
+29,Ferry / Boat
+98,Unknown
+99,Unknown
